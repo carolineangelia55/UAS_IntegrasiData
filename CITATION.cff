@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it as below."
+title: "carolineangelia55/UAS_IntegrasiData: Exploring a Decade of Research Trends in Data Warehousing within Enterprise Systems Using Latent Dirichlet Allocation"
+version: 1.0.0
+date-released: 2026-06-22
+doi: 10.5281/zenodo.20798357
+repository-code: "https://github.com/carolineangelia55/UAS_IntegrasiData"
+authors:
+  - given-names: "Daris Irfan"
+    family-names: "Putrawanto"
+    email: "darisirfan045@gmail.com"
+    affiliation: "Department of Information Systems, Institut Teknologi Sepuluh Nopember"
+  - given-names: "Ayunda Kusuma"
+    family-names: "Wardani"
+    email: "ayundakusumawardani12@gmail.com"
+    affiliation: "Department of Information Systems, Institut Teknologi Sepuluh Nopember"
+  - given-names: "Caroline Angelia"
+    family-names: "Setiawan"
+    email: "caroline.angelia55@gmail.com"
+    affiliation: "Department of Information Systems, Institut Teknologi Sepuluh Nopember"
+  - given-names: "Nur Aini"
+    family-names: "Rakhmawati"
+    email: "nur.aini@is.its.ac.id"
+    affiliation: "Department of Information Systems, Institut Teknologi Sepuluh Nopember"
